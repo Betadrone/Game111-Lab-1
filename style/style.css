@@ -46,3 +46,9 @@ p#Top, p#Bottom {
     margin-right: auto;
     width: 50%;
 }
+
+blockquote.dotted {
+    border-style: dotted;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
